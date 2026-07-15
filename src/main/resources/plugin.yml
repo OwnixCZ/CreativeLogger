@@ -1,0 +1,7 @@
+# yaml-language-server: $schema=none
+name: CreativeLogger
+version: "1.0"
+main: cz.tvojanovabudova.creativelogger.CreativeLogger
+api-version: "1.21"
+author: OwnerOcz
+description: Loguje predmety vzate z kreativniho modu.

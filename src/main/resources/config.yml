@@ -1,0 +1,3 @@
+# Nastavení formátu popisku (Lore) na předmětu.
+# Můžeš použít barevné kódy s '&' 
+lore-format: "&7Spawnuto: &e%player%"
