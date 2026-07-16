@@ -1,4 +1,3 @@
-# yaml-language-server: $schema=none
 name: CreativeLogger
 version: "1.0"
 main: cz.tvojanovabudova.creativelogger.CreativeLogger
