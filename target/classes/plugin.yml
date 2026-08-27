@@ -2,5 +2,5 @@ name: CreativeLogger
 version: 1.0
 main: cz.roemc.creativelogger.Creativelogger
 api-version: 1.21
-author: roemc
+author: OwnerOcz
 description: Prida lore na itemy vyndane z creative modu.
